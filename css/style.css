@@ -98,7 +98,74 @@ body{
     margin-left: 45%;
     margin-bottom: 50px;
 }
-.projektek1 img {
+.pr1 img {
+    padding-right: 30px;
+}
+.elsop{
+    margin-left: 154%;
+}
+.pr1{
+    display: flex;
+    
+    width: 300px;
+    
+}
+.szoveg3{
+    font-size: 20px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 26%;
+    
+    
+}
+.szoveg4{
+    font-size: 20px;
+    width: 250px;
+    margin-top: 30px;
+    padding-left: 50px;
+}
+.szoveg5{
+    font-size: 20px;
+    width: 250px;
+    margin-top: 30px;
+   padding-left: 80px;
+    
+}
+.szovegek{
+    display: flex;
+    
+    
+    margin: 0;
+
+}
+.kapcs{
+
+}
+.navbar a:hover{
+    color: blue;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+@media (max-width: 800px) {
+  body{
+    font-size: 28px;
+  }
+    .navbar {
+    display: block;
+    padding-bottom: 80px;
+    
+    
+   
+  }
+  .navbar a {
+    font-size: 28px;
+    justify-content: center;
+    text-align : center;
+    }
+    .elso1{
+        margin-right: 120px;
+    }
     
 }
 
