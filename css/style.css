@@ -65,8 +65,42 @@ body{
     margin-top: 90px;
 }
 .kezsegim{
-    font-size: 30px;
+    font-size: 32px;
     margin-top: 50px;
     margin-left: 45%;
     margin-bottom: 50px;
 }
+.elsokep{
+    margin-left: 29%;
+}
+.elsosor img{
+    height: 270px;
+    padding-right: 80px;
+    
+}
+.msor img{
+    height: 270px;
+    padding-right: 20px;
+    margin-top: 30px;
+    height: 270px;
+    
+}
+.git{
+    margin-left: 27%;
+    
+    
+
+}
+.projektek{
+   
+    font-size: 32px;
+    margin-top: 50px;
+    margin-left: 45%;
+    margin-bottom: 50px;
+}
+.projektek1 img {
+    
+}
+
+
+
